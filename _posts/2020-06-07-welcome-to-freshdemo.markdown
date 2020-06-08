@@ -16,7 +16,7 @@ One of the other things we intend to provide is immutible infrastructure so that
 </p>
 
 <p>
-Each post should be tagged with one of the following, which are alingned with <a href="https://attack.mitre.org/" taget="_blank">Mitre Att&ck</a>. The <a href="categories.html">categories</a> link in the top right corner will bring you to them quickly.
+Each post should be tagged with one of the following, which are alingned with <a href="https://attack.mitre.org/" taget="_blank">Mitre Att&ck</a>. The <a href="/categories/">categories</a> link in the top right corner will bring you to them quickly.
 </p>
 
 <ul>
