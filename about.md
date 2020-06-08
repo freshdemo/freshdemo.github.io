@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is here for educational purposes only. Do not use this information for anything malicious. FreshDemo takes no accountability for nefarious actions of users.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+It is also your responsibility to protect the devices you execute any of these attacks on, and FreshDemo takes no accountability for losses due to system compromises as a result of these informational guides.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you don't know what you're doing, this probably isn't the place to start. This site is for those who regularly need to demonstrate phases of the cybersecurity attack chain and don't have time to constantly build new environments and come up with scenarios from scratch.
+
+You can find the source code for FreshDemo GitHub:
+[FreshDemo](https://github.com/Freshdemo)
 
 
-[jekyll-organization]: https://github.com/jekyll
