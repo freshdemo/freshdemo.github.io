@@ -21,7 +21,7 @@ Each post should be tagged with one of the following, which are alingned with <a
 
 <ul>
     <li>infrastructure - any systems that will facilitate transmitting the attacks.
-    <li>phishing, #initialaccess
+    <li>initialaccess
     <li>execution
     <li>persistence
     <li>privilegeescalation

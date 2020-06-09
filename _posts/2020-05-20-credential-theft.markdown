@@ -131,3 +131,9 @@ When the link is clicked you are brought to the harvester page.
 When you type your username and password the user gets redirected to google.com, and the credentials appear back in SET.
 </p>
 <img src="/images/setoolkit-credential-harvested.png" alt="setoolkit">
+<br>
+
+<p>
+Re-testing this with Credential Theft Protection enabled prevented the HTTP POST. SET did not get the credentials and the user was redirected to this page.
+</p>
+<img src="/images/setoolkit-credential-blocked.png" alt="setoolkit">
