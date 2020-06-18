@@ -3,6 +3,7 @@ layout: post
 title:  "SMTP, IMAP, & DNS Infrastructure"
 date:   2020-03-07 16:34:10 -0400
 categories: infrastructure 
+tags: infrastructure
 ---
 <p>
 Getting infrastructure deployed and configured correctly has been one of the most time consuming things when demonstrating the cybersecurity attack chain.

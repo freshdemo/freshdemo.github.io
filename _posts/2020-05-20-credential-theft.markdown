@@ -3,6 +3,7 @@ layout: post
 title:  "Spearphishing Credential Theft"
 date:   2020-05-20 10:32:10 -0400
 categories: phishing credentialaccess
+tags: credentialtheft
 ---
 
 <p>

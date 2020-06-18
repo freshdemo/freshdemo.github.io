@@ -3,6 +3,7 @@ layout: post
 title:  "Spearphishing Link"
 date:   2020-05-28 12:54:10 -0400
 categories: phishing initialaccess
+tags: dnssecurity
 ---
 <p>
 One of the first steps during an incident or breach is phishing, where a user will be lured to a website that will either convince users to input their credentials, have them execute malware, or take advantage of a vulnerability to run further commands to gain a better foothold.

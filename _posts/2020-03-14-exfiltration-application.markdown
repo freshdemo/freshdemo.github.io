@@ -3,6 +3,7 @@ layout: post
 title:  "Application Firewall Data Exfiltration"
 date:   2020-03-14 14:11:15 -0400
 categories: exfiltration 
+tags: app-id
 ---
 <p>
 Once an environment has been compromised and the adversary finds some desirable data the data needs to be removed from the network. In this use case we will assume that common protocols like FTP and SSH are heavily restricted on egress traffic (as they should be) so a simple listener will be open on the DNS port which is more commonly permitted.
