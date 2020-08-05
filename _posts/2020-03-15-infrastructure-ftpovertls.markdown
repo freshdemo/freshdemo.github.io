@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "SMTP, IMAP, & DNS Infrastructure"
-date:   2020-03-07 16:34:10 -0400
+title:  "FTP Infrastructure"
+date:   2020-03-15 13:24:10 -0400
 categories: infrastructure 
 tags: infrastructure
 ---
@@ -16,7 +16,7 @@ The primary goal was to deploy this in a Docker container. Reason being it is in
 </p>
 
 <p>
-Get it here, <a href="https://github.com/freshdemo/mailanddns" target="_blank">https://github.com/freshdemo/mailanddns</a>.
+Get it here, <a href="https://github.com/freshdemo/ftpovertls" target="_blank">https://github.com/freshdemo/ftpovertls</a>.
 </p>
 <br>
 
@@ -34,8 +34,8 @@ From a security perspective it is not a great idea to use an already built conta
 </p>
 
 <code>
-   docker pull freshdemo/mailanddns<br>
-   docker run -h example.com -p 2225:25 -p 993:993 -p 53:53/udp --dns 127.0.0.1 -d <image ID>
+   docker pull freshdemo/ftpovertls<br>
+   docker run  -it -p 21:21 -p 30000-30020:30000-30020-d <image ID>
 </code>
 <br>
 
