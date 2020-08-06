@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Application Firewall Application Evasion"
+title:  "Application Firewall Application Evasion over SSH"
 date:   2020-07-28 11:11:15 -0400
 categories: exfiltration 
 tags: app-id

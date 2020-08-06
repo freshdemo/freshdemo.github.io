@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Application Firewall Data Exfiltration"
+title:  "Application Firewall Data Exfiltration over DNS"
 date:   2020-03-14 14:11:15 -0400
 categories: exfiltration 
 tags: app-id
