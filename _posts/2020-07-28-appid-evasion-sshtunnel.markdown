@@ -24,9 +24,6 @@ In this case the client is being directed to start a proxy on port 8080 (-D 8080
 <code>
   ssh -D 8080 -C -q -N 13.88.250.188
 </code>
-<br>
-<br>
-<img src="/images/exfiltration-netcat-destination.png" alt="netcat">
 
 <h3>Step 2 - Configure System Proxy Settings</h3>
 
