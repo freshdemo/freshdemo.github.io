@@ -12,7 +12,7 @@ Once an environment has been compromised and the adversary finds some desirable 
 <h3>Step 1 - Deploy the FTP Server</h3>
 
 <p>
-The instructions to build a preconfigured FTP server with TLS encryption can be found here, <a href="https://github.com/freshdemo/ftpovertls" target="_blank">https://github.com/freshdemo/ftpovertls</a>
+The instructions to build a preconfigured FTP server with TLS encryption can be found here, <a href="https://freshdemo.github.io/infrastructure/2020/03/15/infrastructure-ftpovertls.html" target="_blank">https://freshdemo.github.io/infrastructure/2020/03/15/infrastructure-ftpovertls.html</a>
 </p>
 
 <p>
@@ -46,10 +46,9 @@ Providing TLS decryption and the associated security policies were implemented i
 <p>
 The first screenshot indicates that the FTP traffic over port 21 was permitted. From there the data transfer was moved over to TCP port 57729. There are 3 log types; Traffic (firewall), data, and vulnerability.
 </p>
-<br>
-<br>
 <img src="/images/exfiltration-application-overftp1.png" alt="ngfw">
-
+<br>
+<br>
 
 <p>
 The second screenshot is showing the same logs just scrolled over to the right to show the additional data available. The data and vulnerability logs show the filename.</p>

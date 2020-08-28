@@ -33,9 +33,11 @@ You can easily interpret the Dockerfile to deploy all of the software and config
 From a security perspective it is not a great idea to use an already built container as you have no idea how it was built or if any backdoor or data exfiltration configurations are pre-built. This container is automatically being built on Docker Hub any time a commit is made to GitHub, so what you see is what you get.
 </p>
 
+<p>
+Download the container, and run it
+</p>
 <code>
    docker pull freshdemo/ftpovertls<br>
-   docker run  -it -p 21:21 -p 30000-30020:30000-30020-d <image ID>
+   docker run  -it -p 21:21 -p 30000-30020:30000-30020 -d freshdemo/ftpovertls
 </code>
-<br>
 
