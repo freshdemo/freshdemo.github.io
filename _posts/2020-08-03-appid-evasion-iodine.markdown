@@ -38,12 +38,12 @@ The zone file will need to be edited to add a sub-domain which is delegated to t
 </p>
 <br>
 <br>
-<code>
+<pre>
 editing forward.example.com
 
 t1      IN      NS      t1ns.example.com.
 t1ns    IN      A       52.156.0.169
-</code>
+</pre>
 
 <p>
 Don't forget to restart BIND.
@@ -59,10 +59,10 @@ You can validate the DNS is setup correctly by ensuring that the delegation reso
 </p>
 <br>
 <br>
-<code>
+<pre>
 dig t1ns.example.com +short
 52.156.0.169
-</code>
+</pre>
 
 <h3>Step 2 - Start the Server</h3>
 
@@ -87,7 +87,6 @@ If all went well you should see something like this.
 <p>
 From the client system behind the security stack start iodine to connect to the iodine server.
 </p>
-<br>
 <br>
 <code>
 iodine -f 52.156.0.169 -P boom t1.example.com
