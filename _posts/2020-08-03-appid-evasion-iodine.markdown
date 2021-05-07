@@ -111,7 +111,7 @@ With this current point to point tunnel established over DNS you would now want 
 </p>
 
 <p>
-For additional security without the requirement to setup more software you could use an SSH tunnel where the address in this case would be 172.16.25.1, <a href="http://127.0.0.1:4000/exfiltration/2020/07/28/appid-evasion-sshtunnel.html" target="_blank">http://127.0.0.1:4000/exfiltration/2020/07/28/appid-evasion-sshtunnel.html</a>
+For additional security without the requirement to setup more software you could use an SSH tunnel where the address in this case would be 172.16.25.1, <a href="https://freshdemo.github.io/exfiltration/2020/07/28/appid-evasion-sshtunnel.html" target="_blank">https://freshdemo.github.io/exfiltration/2020/07/28/appid-evasion-sshtunnel.html</a>
 <p>
 
 <h3>Step 5 - View the Results</h3>
