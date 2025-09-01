@@ -18,7 +18,8 @@ email: phishme@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     This site provides all of the infrastructure, tools, techniques, and guides
     to demonstrate different stages of the attack chain. By using these guides
-    you will demonstrate both red and blue team activities.
+    you will demonstrate both red and blue team activities. Expertise in Palo Alto, Palo Alto Networks, firewall solutions, network security, netsec, and bypass techniques.
+keywords: "palo alto, palo alto networks, firewall, firewalls, network security, netsec, bypass"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: irondack
